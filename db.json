@@ -1,0 +1,97 @@
+{
+  "screens": [
+    {
+      "type": "SingleColumnLayout",
+      "args": {
+        "noOfSections": "2"
+      },
+      "sections": [
+        {
+          "type": "Card",
+          "key": 0,
+          "props": {
+            "color": "#d28260"
+          }
+        },
+        {
+          "type": "Card",
+          "key": 1,
+          "props": {
+            "color": "#4b7260"
+          }
+        }
+      ],
+      "nav": {
+        "type": "",
+        "details": ""
+      },
+      "footer": {
+        "type": "",
+        "details": ""
+      }
+    },
+    {
+      "type": "SingleColumnLayout",
+      "args": {
+        "noOfSections": "3"
+      },
+      "sections": [
+        {
+          "type": "Button",
+          "key": 0,
+          "props": {
+            "muiColor": "error",
+            "variant": "outlined",
+            "name": "Click Here"
+          },
+          "details": {}
+        },
+        {
+          "type": "TextField",
+          "key": 1,
+          "props": {
+            "placeholder": "Enter 22222"
+          },
+          "sectionDetail": {}
+        },
+        {
+          "type": "Button",
+          "key": 2,
+          "props": {
+            "muiColor": "success",
+            "variant": "contained",
+            "name": "Submit"
+          },
+          "details": {}
+        }
+      ],
+      "nav": {
+        "type": "",
+        "details": ""
+      },
+      "footer": {
+        "type": "",
+        "details": ""
+      }
+    }
+  ],
+  "data": [
+    [
+      {
+        "key": 0,
+        "details": {
+          "header": "Card 1 Title",
+          "body": "Card 1 Content"
+        }
+      },
+      {
+        "key": 1,
+        "details": {
+          "header": "Card 2 Title",
+          "body": "Card 2 Content"
+        }
+      }
+    ],
+    []
+  ]
+}
