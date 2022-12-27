@@ -19,6 +19,20 @@
           "props": {
             "color": "#4b7260"
           }
+        },
+         {
+          "type": "Card",
+          "key": 2,
+          "props": {
+            "color": "#8b7260"
+          }
+        },
+        {
+          "type": "Card",
+          "key": 3,
+          "props": {
+            "color": "#1b7260"
+          }
         }
       ],
       "nav": {
@@ -89,6 +103,20 @@
         "details": {
           "header": "Card 2 Title",
           "body": "Card 2 Content"
+        }
+      },
+       {
+        "key": 2,
+        "details": {
+          "header": "Card 3 Title",
+          "body": "Card 3 Content"
+        }
+      },
+       {
+        "key": 3,
+        "details": {
+          "header": "Card 4 Title",
+          "body": "Card 4 Content"
         }
       }
     ],
