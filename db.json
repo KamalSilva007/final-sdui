@@ -33,6 +33,48 @@
           "props": {
             "color": "#1b7260"
           }
+        },
+        {
+          "type": "Card",
+          "key": 4,
+          "props": {
+            "color": "#3b7260"
+          }
+        },
+        {
+          "type": "Card",
+          "key": 5,
+          "props": {
+            "color": "#2b7260"
+          }
+        },
+        {
+          "type": "Card",
+          "key": 6,
+          "props": {
+            "color": "#8b7260"
+          }
+        },
+        {
+          "type": "Card",
+          "key": 7,
+          "props": {
+            "color": "#9b7260"
+          }
+        },
+        {
+          "type": "Card",
+          "key": 8,
+          "props": {
+            "color": "#1b7260"
+          }
+        },
+        {
+          "type": "Card",
+          "key": 9,
+          "props": {
+            "color": "#5b7260"
+          }
         }
       ],
       "nav": {
@@ -117,6 +159,48 @@
         "details": {
           "header": "Card 4 Title",
           "body": "Card 4 Content"
+        }
+      },
+       {
+        "key": 4,
+        "details": {
+          "header": "Card 5 Title",
+          "body": "Card 5 Content"
+        }
+      },
+       {
+        "key": 5,
+        "details": {
+          "header": "Card 6 Title",
+          "body": "Card 6 Content"
+        }
+      },
+       {
+        "key": 6,
+        "details": {
+          "header": "Card 7 Title",
+          "body": "Card 7 Content"
+        }
+      },
+       {
+        "key": 7,
+        "details": {
+          "header": "Card 8 Title",
+          "body": "Card 8 Content"
+        }
+      },
+       {
+        "key": 8,
+        "details": {
+          "header": "Card 9 Title",
+          "body": "Card 9 Content"
+        }
+      },
+       {
+        "key": 9,
+        "details": {
+          "header": "Card 10 Title",
+          "body": "Card 10 Content"
         }
       }
     ],
